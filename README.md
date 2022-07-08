@@ -1,1 +1,1 @@
-# laser-getting-started
+# laser getting started
